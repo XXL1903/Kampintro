@@ -19,9 +19,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Banka", "Banka\Banka.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP1", "OOP1\OOP1.csproj", "{A68218D4-B83E-4163-BB74-ABAE9545F6A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{375D9029-3F55-485A-BA99-54DCC2FE04CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{375D9029-3F55-485A-BA99-54DCC2FE04CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{C3840632-6E80-4204-B8ED-482967A8ED4E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{C3840632-6E80-4204-B8ED-482967A8ED4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2", "OOP2\OOP2.csproj", "{7ACBB106-7667-4CEC-A5ED-532A595FA8EC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{C3840632-6E80-4204-B8ED-482967A8ED4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3840632-6E80-4204-B8ED-482967A8ED4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3840632-6E80-4204-B8ED-482967A8ED4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ACBB106-7667-4CEC-A5ED-532A595FA8EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ACBB106-7667-4CEC-A5ED-532A595FA8EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ACBB106-7667-4CEC-A5ED-532A595FA8EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ACBB106-7667-4CEC-A5ED-532A595FA8EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
