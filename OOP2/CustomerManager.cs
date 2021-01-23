@@ -7,7 +7,13 @@ namespace OOP2
     // İş Sınıfları-- Business Classes
     class CustomerManager
     {
-        public void Ekle(Musteri musteri);
+        public void Ekle(Musteri musteri)
+        {
+            //if(musteri.)
+            //{
+
+            //}
+        }
         
     }
 }
